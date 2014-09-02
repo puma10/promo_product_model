@@ -1,8 +1,14 @@
-import
+import Promo_Class
+
+#order_num1 = Promo_Class.Order()
+#order_num2 = Promo_Class.Order()
+
+product_1 = Promo_Class.Product
+print product_1
 
 # our inventory is a reflection of the combined total of our suppliers
 # our product selection is a combination of all our suppliers product selection
-the_tee_shirt_bakery = Distributor()
+""" the_tee_shirt_bakery = Distributor()
 
 sanmar = Supplier()
 bodek = Supplier()
@@ -16,6 +22,8 @@ order = (product, customer, shipping_details, decorator, [supplier], [quantity])
 
 print order_details
 print customer
+
+"""
 
 """
 
